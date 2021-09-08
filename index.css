@@ -176,7 +176,11 @@ html{
         
     }
     .container .card-wrapper .card{
-        width:80%;
+        width:90%;
+        border-radius:10px;
         
+    }
+    .btn-info p{
+        display:block;
     }
 }
