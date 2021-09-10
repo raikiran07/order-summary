@@ -19,6 +19,8 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
+I am really happy to complete my first forntend mentor challenge, it was little bit confusing at middle but with the help of googe I was able to find
+the loop holes. I learn many things during the process and it gives me confidence to work on such projects in coming future.
 
 ### The challenge
 
@@ -28,83 +30,51 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
 
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
 
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
 
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
-
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/raikiran07/order-summary)
+- Live Site URL: [Add live site URL here](https://sad-bardeen-81d664.netlify.app/)
 
 ## My process
+I code the challege in an editor called Brackets, I took the help of the design provided by the frontend mentor. whenever I got stuck in some place I google the solution and it help to learn new things on the go which was really amazing.
 
 ### Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
-- Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
-
+This challeng really help me to work with patience and taught me how to google solutions.
 ```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
 
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
 
-**Note: Delete this note and the content within this section and replace with your own learnings.**
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+I am looking forward to master other important topics of css, like css grid etc. I would love to take challenges from forntend mentor to master my skill.
+And I also wish to connect with other developers and learn in community to speedup my learning journey and serve the community with good work.
 
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
+
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [google fonts](https://fonts.google.com/) - This helped me to design my text and headings. I really liked this platform and will use it going forward.
+- [colour picker](https://g.co/kgs/ytFtrh) - This is another site which helped me alot during my desing.
 
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
+
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
+- Frontend Mentor - [@raikiran07](https://www.frontendmentor.io/profile/raikiran07)
+- Twitter - [@kiranRai425](https://twitter.com/KiranRai425)
 
-## Acknowledgments
 
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
 
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
